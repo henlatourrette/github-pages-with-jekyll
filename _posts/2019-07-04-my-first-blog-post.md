@@ -1,3 +1,8 @@
+---
+title: "THE GREAT TITLE OF ALL TIMES"
+date: 2019-07-04
+---
+
 *This is the great title*
 **In this great title we discuss the issues related to titles**
 
